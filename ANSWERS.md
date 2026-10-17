@@ -1,8 +1,8 @@
 # Midterm 1: answers
 
-GitHub username:
-Session code:
-Fingerprint:
+GitHub username: Altynai06n1
+Session code: KETTLE-62
+Fingerprint: 99a700e9
 
 > Fill in the three lines above from `my_data/DATA.md`. Do not rename headings or table columns: a script reads the numbers.
 > Write only in the empty cells and lines. Percentages as 0.78 or 78 %, money as plain numbers.
@@ -16,6 +16,7 @@ I used Claude to write the code (partially). I wrote the conclusions and texts f
 ### 1a. Metrics (all 60 questions)
 
 config | recall@1 | recall@3 | recall@5 | MRR@10
+|---|---|---|---|---|
 A | 0.4333 | 0.7333 | 0.8500 | 0.5910
 B | 0.1833 | 0.3667 | 0.6500 | 0.3406
 
